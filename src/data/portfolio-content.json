@@ -1,0 +1,322 @@
+{
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Tăng Văn Dẽ",
+    "title": "Backend Developer",
+    "subtitle": "Backend Developer",
+    "description": "I build accessible, pixel-perfect digital experiences for the web. Passionate about crafting user interfaces that blend thoughtful design with robust engineering.",
+    "profileImage": "/images/avatar.jpg",
+    "resumeUrl": "/resume.pdf",
+    "socialLinks": {
+      "github": "https://github.com/yourusername",
+      "linkedin": "https://linkedin.com/in/yourusername",
+      "email": "mailto:detangvan@gmail.com"
+    }
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "About Me",
+    "description": "I'm a passionate Full Stack Developer with expertise in modern web technologies. I love creating digital experiences that are both beautiful and functional.",
+    "image": "/images/about.jpg",
+    "whyHireMe": {
+      "title": "Why hire me for your next project?",
+      "paragraphs": [
+        "With over 5 years of experience in software development, I've worked on projects ranging from small business websites to enterprise-level applications. I specialize in creating scalable, maintainable code that follows industry best practices.",
+        "My expertise spans the full development stack, from crafting pixel-perfect user interfaces to designing robust backend architectures. I'm passionate about clean code, performance optimization, and delivering exceptional user experiences.",
+        "I believe in continuous learning and staying up-to-date with the latest technologies and industry trends. This allows me to bring innovative solutions to every project."
+      ]
+    },
+    "skills": [
+      {
+        "icon": "Code",
+        "name": "Frontend Development",
+        "description": "React, Next.js, TypeScript, Tailwind CSS"
+      },
+      {
+        "icon": "Palette",
+        "name": "UI/UX Design",
+        "description": "Figma, Adobe XD, Responsive Design"
+      },
+      {
+        "icon": "Smartphone",
+        "name": "Mobile Development",
+        "description": "React Native, Progressive Web Apps"
+      },
+      {
+        "icon": "Database",
+        "name": "Backend Development",
+        "description": ".NET, C#, Clean Architecture, CQRS"
+      },
+      {
+        "icon": "Cloud",
+        "name": "Cloud & DevOps",
+        "description": "Azure, Docker, CI/CD, GitHub Actions"
+      },
+      {
+        "icon": "Shield",
+        "name": "Security & Testing",
+        "description": "Unit Testing, Security Best Practices"
+      }
+    ]
+  },
+  "experience": {
+    "title": "Experience",
+    "subtitle": "My professional journey in software development, from startups to enterprise companies.",
+    "experiences": [
+      {
+        "company": "Tech Company",
+        "position": "Senior Full Stack Developer",
+        "duration": "2023 - Present",
+        "location": "Ho Chi Minh City, Vietnam",
+        "description": "Leading development of enterprise web applications using React, Next.js, and .NET. Implemented Clean Architecture and CQRS pattern.",
+        "technologies": ["React", "Next.js", ".NET", "C#", "Azure", "Docker"],
+        "link": "#",
+        "isCurrent": true
+      },
+      {
+        "company": "Digital Agency",
+        "position": "Full Stack Developer",
+        "duration": "2021 - 2023",
+        "location": "Ho Chi Minh City, Vietnam",
+        "description": "Developed responsive websites and web applications for various clients. Worked with modern frontend frameworks and backend technologies.",
+        "technologies": ["React", "Vue.js", "Node.js", "MongoDB", "AWS"],
+        "link": "#"
+      },
+      {
+        "company": "Startup",
+        "position": "Frontend Developer",
+        "duration": "2020 - 2021",
+        "location": "Ho Chi Minh City, Vietnam",
+        "description": "Built user interfaces for mobile and web applications. Collaborated with designers to create pixel-perfect implementations.",
+        "technologies": ["React", "React Native", "TypeScript", "Tailwind CSS"],
+        "link": "#"
+      }
+    ]
+  },
+  "certificates": {
+    "title": "Certificates & Achievements",
+    "subtitle": "Professional certifications that validate my expertise in various technologies and methodologies.",
+    "categories": ["All", "Cloud & DevOps", "Backend Development", "Frontend Development", "Agile & Project Management", "Oracle Cloud"],
+    "certificates": [
+      {
+        "title": "Microsoft Certified: Azure Fundamentals (AZ-900)",
+        "issuer": "Microsoft",
+        "date": "July 15, 2023",
+        "credentialId": "AZ-900",
+        "description": "Demonstrates foundational knowledge of cloud services and how those services are provided with Microsoft Azure.",
+        "image": "/api/placeholder/200/200",
+        "link": "https://learn.microsoft.com/api/credentials/share/en-us/tangvande-7448/DC41C5BF115B6A61?sharingId=5FA28F79F83AAD75",
+        "category": "Cloud & DevOps"
+      },
+      {
+        "title": "Microsoft Certified: Azure Data Fundamentals (DP-900)",
+        "issuer": "Microsoft",
+        "date": "May 6, 2023",
+        "credentialId": "DP-900",
+        "description": "Demonstrates foundational knowledge of core data concepts and how they are implemented using Microsoft Azure data services.",
+        "image": "/api/placeholder/200/200",
+        "link": "https://learn.microsoft.com/api/credentials/share/en-us/tangvande-7448/2BE9C08C2A51A79D?sharingId=5FA28F79F83AAD75",
+        "category": "Cloud & DevOps"
+      },
+      {
+        "title": "Microsoft Certified: Azure Developer Associate (AZ-204)",
+        "issuer": "Microsoft",
+        "date": "May 24, 2025",
+        "credentialId": "AZ-204",
+        "description": "Demonstrates expertise in developing, testing, and maintaining cloud applications and services on Microsoft Azure.",
+        "image": "/api/placeholder/200/200",
+        "link": "https://learn.microsoft.com/en-us/users/tangvande-7448/credentials/73c1f23f990a5dd3",
+        "category": "Cloud & DevOps"
+      },
+      {
+        "title": "Microsoft Certified: Azure Administrator Associate (AZ-104)",
+        "issuer": "Microsoft",
+        "date": "May 31, 2025",
+        "credentialId": "AZ-104",
+        "description": "Validates skills in implementing, managing, and monitoring an organization's Microsoft Azure environment.",
+        "image": "/api/placeholder/200/200",
+        "link": "https://learn.microsoft.com/api/credentials/share/en-us/tangvande-7448/A03E49C39A46F10E?sharingId=5FA28F79F83AAD75",
+        "category": "Cloud & DevOps"
+      },
+      {
+        "title": "PROFESSIONAL SCRUM MASTER™ I (PSM I)",
+        "issuer": "Scrum.org",
+        "date": "July 28, 2023",
+        "credentialId": "PSM-I",
+        "description": "Certifies knowledge of Scrum framework and ability to facilitate Scrum events and remove impediments.",
+        "image": "/api/placeholder/200/200",
+        "link": "https://drive.google.com/file/d/1RK0IEelnJLXMp6N2_ThKkij5SgHLS-Sm/view?usp=sharing",
+        "category": "Agile & Project Management"
+      },
+      {
+        "title": "Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate",
+        "issuer": "Oracle",
+        "date": "September 27, 2023",
+        "credentialId": "OCI-AI",
+        "description": "Validates foundational knowledge of Oracle Cloud Infrastructure AI services and machine learning capabilities.",
+        "image": "/api/placeholder/200/200",
+        "link": "https://drive.google.com/file/d/1J9JLomMlWHN9rFHpFYgyiaN_Tmocapxk/view?usp=sharing",
+        "category": "Oracle Cloud"
+      },
+      {
+        "title": "Oracle Cloud Data Management 2023 Certified Foundations Associate",
+        "issuer": "Oracle",
+        "date": "September 27, 2023",
+        "credentialId": "OCI-DATA",
+        "description": "Demonstrates expertise in Oracle Cloud data management services including databases, analytics, and data integration.",
+        "image": "/api/placeholder/200/200",
+        "link": "https://drive.google.com/file/d/1vs6Qkj97XUrzZQtD-mvly6b-whiNoftu/view?usp=sharing",
+        "category": "Oracle Cloud"
+      },
+      {
+        "title": "Oracle Cloud Infrastructure 2023 Certified Foundations Associate",
+        "issuer": "Oracle",
+        "date": "September 27, 2023",
+        "credentialId": "OCI-FOUND",
+        "description": "Certifies foundational knowledge of Oracle Cloud Infrastructure services and cloud computing concepts.",
+        "image": "/api/placeholder/200/200",
+        "link": "https://drive.google.com/file/d/1o93s6nwaxMKPUyM1jwA5NdWbwgfBvwFT/view?usp=sharing",
+        "category": "Oracle Cloud"
+      }
+    ],
+    "viewAllLink": "https://www.credly.com/users/yourusername"
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "A showcase of my recent work and personal projects that demonstrate my skills and creativity.",
+    "projects": [
+      {
+        "title": "Portfolio Website",
+        "description": "A full-stack e-commerce solution with React frontend and .NET backend, featuring user authentication, product management, and payment integration.",
+        "image": "/images/projects/ecommerce.jpg",
+        "liveUrl": "https://ecommerce-demo.com",
+        "githubUrl": "https://github.com/yourusername/ecommerce",
+        "technologies": ["Next.js", ".NET", "Azure", "Stripe"],
+        "features": ["User Authentication", "Product Catalog", "Shopping Cart", "Payment Processing", "Admin Dashboard"],
+        "category": "Full Stack",
+        "isFeatured": true,
+        "sortOrder": 1
+      },
+      {
+        "title": "Agent AI Reporting",
+        "description": "A collaborative task management application with real-time updates, drag-and-drop functionality, and team collaboration features.",
+        "image": "/images/projects/taskapp.jpg",
+        "liveUrl": "https://taskapp-demo.com",
+        "githubUrl": "https://github.com/yourusername/taskapp",
+        "technologies": ["React", "TypeScript", "Node.js", "Socket.io", "MongoDB"],
+        "features": ["Real-time Updates", "Drag & Drop", "Team Collaboration", "File Attachments", "Progress Tracking"],
+        "category": "Web App",
+        "isFeatured": true,
+        "sortOrder": 2
+      }
+    ]
+  },
+  "letsConnect": {
+    "title": "Let's Connect",
+    "subtitle": "Let's Connect",
+    "description": "I'm always open to discussing new opportunities, interesting projects, or just having a chat about technology. Feel free to reach out through any of these platforms or take a quick action below.",
+    "socialPlatforms": [
+      {
+        "name": "LinkedIn",
+        "icon": "Linkedin",
+        "url": "https://linkedin.com/in/yourusername",
+        "username": "@yourusername",
+        "description": "Professional networking and updates",
+        "isPrimary": true
+      },
+      {
+        "name": "GitHub",
+        "icon": "Github",
+        "url": "https://github.com/yourusername",
+        "username": "@yourusername",
+        "description": "Code repositories and open source",
+        "isPrimary": true
+      },
+      {
+        "name": "Twitter",
+        "icon": "Twitter",
+        "url": "https://twitter.com/yourusername",
+        "username": "@yourusername",
+        "description": "Tech thoughts and updates",
+        "isPrimary": false
+      },
+      {
+        "name": "Instagram",
+        "icon": "Instagram",
+        "url": "https://instagram.com/yourusername",
+        "username": "@yourusername",
+        "description": "Behind the scenes and life updates",
+        "isPrimary": false
+      },
+      {
+        "name": "YouTube",
+        "icon": "Youtube",
+        "url": "https://youtube.com/@yourusername",
+        "username": "@yourusername",
+        "description": "Tech tutorials and content",
+        "isPrimary": false
+      },
+      {
+        "name": "Medium",
+        "icon": "BookOpen",
+        "url": "https://medium.com/@yourusername",
+        "username": "@yourusername",
+        "description": "Technical articles and insights",
+        "isPrimary": false
+      }
+    ],
+    "quickActions": [
+      {
+        "title": "Send Email",
+        "description": "Drop me a line for project discussions",
+        "icon": "Mail",
+        "action": "email",
+        "url": "mailto:your.email@example.com"
+      },
+      {
+        "title": "Schedule Call",
+        "description": "Book a 30-minute consultation call",
+        "icon": "Phone",
+        "action": "call",
+        "url": "https://calendly.com/yourusername"
+      },
+      {
+        "title": "Book Meeting",
+        "description": "Reserve time for project planning",
+        "icon": "Calendar",
+        "action": "meeting",
+        "url": "https://calendly.com/yourusername"
+      },
+      {
+        "title": "WhatsApp",
+        "description": "Quick chat for urgent matters",
+        "icon": "MessageCircle",
+        "action": "message",
+        "url": "https://wa.me/84123456789"
+      }
+    ],
+    "availability": {
+      "status": "available",
+      "message": "Currently accepting new projects and opportunities",
+      "responseTime": "Within 24 hours",
+      "timezone": "GMT+7 (Vietnam)",
+      "workingHours": "Monday - Friday, 9:00 AM - 6:00 PM"
+    }
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "Ready to start your next project? Let's discuss how I can help bring your ideas to life.",
+    "form": {
+      "name": "Your name",
+      "email": "your.email@example.com",
+      "subject": "Subject",
+      "message": "Your message",
+      "submitButton": "Send Message"
+    },
+    "contactInfo": {
+      "email": "detangvan@gmail.com",
+      "phone": "+84 965 194 948",
+      "location": "Quy Nhon, Gia Lai, Vietnam"
+    }
+  }
+}
