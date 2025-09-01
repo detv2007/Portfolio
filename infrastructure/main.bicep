@@ -61,3 +61,4 @@ output staticWebAppUrl string = staticWebApp.properties.defaultHostname
 output staticWebAppId string = staticWebApp.id
 
 
+

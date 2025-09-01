@@ -8,7 +8,7 @@
     "profileImage": "/images/avatar.jpg",
     "resumeUrl": "/resume.pdf",
     "socialLinks": {
-      "github": "https://github.com/yourusername",
+      "github": "https://github.com/detv2007",
       "linkedin": "https://linkedin.com/in/yourusername",
       "email": "mailto:detangvan@gmail.com"
     }
@@ -189,8 +189,8 @@
         "title": "Portfolio Website",
         "description": "A full-stack e-commerce solution with React frontend and .NET backend, featuring user authentication, product management, and payment integration.",
         "image": "/images/projects/ecommerce.jpg",
-        "liveUrl": "https://ecommerce-demo.com",
-        "githubUrl": "https://github.com/yourusername/ecommerce",
+        "liveUrl": "https://red-sky-0aa791300.2.azurestaticapps.net",
+        "githubUrl": "https://github.com/detv2007/Portfolio",
         "technologies": ["Next.js", ".NET", "Azure", "Stripe"],
         "features": ["User Authentication", "Product Catalog", "Shopping Cart", "Payment Processing", "Admin Dashboard"],
         "category": "Full Stack",
@@ -203,7 +203,7 @@
         "image": "/images/projects/taskapp.jpg",
         "liveUrl": "https://taskapp-demo.com",
         "githubUrl": "https://github.com/yourusername/taskapp",
-        "technologies": ["React", "TypeScript", "Node.js", "Socket.io", "MongoDB"],
+        "technologies": ["Python", "OpenAI API", "RAG"],
         "features": ["Real-time Updates", "Drag & Drop", "Team Collaboration", "File Attachments", "Progress Tracking"],
         "category": "Web App",
         "isFeatured": true,
@@ -227,7 +227,7 @@
       {
         "name": "GitHub",
         "icon": "Github",
-        "url": "https://github.com/yourusername",
+        "url": "https://github.com/detv2007",
         "username": "@yourusername",
         "description": "Code repositories and open source",
         "isPrimary": true
