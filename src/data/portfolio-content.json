@@ -4,44 +4,29 @@
     "name": "Tăng Văn Dẽ",
     "title": "Backend Developer",
     "subtitle": "Backend Developer",
-    "description": "I build accessible, pixel-perfect digital experiences for the web. Passionate about crafting user interfaces that blend thoughtful design with robust engineering.",
+    "description": "I’m a Senior Backend Developer and Team Leader with extensive experience building scalable and reliable systems using .NET technologies. My expertise lies in designing robust architectures, optimizing performance, and leading teams to deliver high-quality software solutions. I’m passionate about crafting backend systems that serve as the solid foundation for exceptional user experiences. With a strong focus on clean code, maintainability, and best practices, I ensure that every project I lead is not only functional but also future-proof.",
     "profileImage": "/images/avatar.jpg",
     "resumeUrl": "/resume.pdf",
     "socialLinks": {
       "github": "https://github.com/detv2007",
-      "linkedin": "https://linkedin.com/in/yourusername",
+      "linkedin": "https://www.linkedin.com/in/detv/",
       "email": "mailto:detangvan@gmail.com"
     }
   },
   "about": {
     "title": "About Me",
     "subtitle": "About Me",
-    "description": "I'm a passionate Full Stack Developer with expertise in modern web technologies. I love creating digital experiences that are both beautiful and functional.",
+    "description": "I'm a passionate Backend Developer with expertise in modern web technologies. I love creating digital experiences that are both beautiful and functional.",
     "image": "/images/about.jpg",
     "whyHireMe": {
       "title": "Why hire me for your next project?",
       "paragraphs": [
-        "With over 5 years of experience in software development, I've worked on projects ranging from small business websites to enterprise-level applications. I specialize in creating scalable, maintainable code that follows industry best practices.",
-        "My expertise spans the full development stack, from crafting pixel-perfect user interfaces to designing robust backend architectures. I'm passionate about clean code, performance optimization, and delivering exceptional user experiences.",
+        "With over 7 years of experience in software development, I've worked on projects ranging from small business websites to enterprise-level applications. I specialize in creating scalable, maintainable code that follows industry best practices.",
+        "My expertise lies in designing robust backend architectures. I'm passionate about clean code, performance optimization, and delivering exceptional user experiences.",
         "I believe in continuous learning and staying up-to-date with the latest technologies and industry trends. This allows me to bring innovative solutions to every project."
       ]
     },
     "skills": [
-      {
-        "icon": "Code",
-        "name": "Frontend Development",
-        "description": "React, Next.js, TypeScript, Tailwind CSS"
-      },
-      {
-        "icon": "Palette",
-        "name": "UI/UX Design",
-        "description": "Figma, Adobe XD, Responsive Design"
-      },
-      {
-        "icon": "Smartphone",
-        "name": "Mobile Development",
-        "description": "React Native, Progressive Web Apps"
-      },
       {
         "icon": "Database",
         "name": "Backend Development",
@@ -53,9 +38,9 @@
         "description": "Azure, Docker, CI/CD, GitHub Actions"
       },
       {
-        "icon": "Shield",
-        "name": "Security & Testing",
-        "description": "Unit Testing, Security Best Practices"
+        "icon": "Code",
+        "name": "Frontend Development",
+        "description": "Angular, Node.js, Next.js, TypeScript"
       }
     ]
   },
@@ -64,31 +49,31 @@
     "subtitle": "My professional journey in software development, from startups to enterprise companies.",
     "experiences": [
       {
-        "company": "Tech Company",
-        "position": "Senior Full Stack Developer",
-        "duration": "2023 - Present",
-        "location": "Ho Chi Minh City, Vietnam",
-        "description": "Leading development of enterprise web applications using React, Next.js, and .NET. Implemented Clean Architecture and CQRS pattern.",
-        "technologies": ["React", "Next.js", ".NET", "C#", "Azure", "Docker"],
+        "company": "FPT Software",
+        "position": "TL, Senior Backend Developer",
+        "duration": "2021 - Present",
+        "location": "Quy Nhon, Vietnam",
+        "description": "Leading development of enterprise applications using .NET and Python. Implemented Clean Architecture and CQRS pattern.",
+        "technologies": [".NET", "C#", "Azure", "AWS", "Python", "AI", "CNC Machine"],
         "link": "#",
         "isCurrent": true
       },
       {
-        "company": "Digital Agency",
-        "position": "Full Stack Developer",
-        "duration": "2021 - 2023",
+        "company": "FPT Telecom",
+        "position": "Backend Developer",
+        "duration": "2018 - 2020",
         "location": "Ho Chi Minh City, Vietnam",
-        "description": "Developed responsive websites and web applications for various clients. Worked with modern frontend frameworks and backend technologies.",
-        "technologies": ["React", "Vue.js", "Node.js", "MongoDB", "AWS"],
+        "description": "Developed backend services for telecom applications using .NET",
+        "technologies": [".NET", "C#", "SQL Server", "Redis", "Kafka", "RabbitMQ", "Docker", "Oracle", "K8s"],
         "link": "#"
       },
       {
-        "company": "Startup",
-        "position": "Frontend Developer",
-        "duration": "2020 - 2021",
+        "company": "Ship60",
+        "position": "Full Stack Developer",
+        "duration": "2017 - 2017",
         "location": "Ho Chi Minh City, Vietnam",
-        "description": "Built user interfaces for mobile and web applications. Collaborated with designers to create pixel-perfect implementations.",
-        "technologies": ["React", "React Native", "TypeScript", "Tailwind CSS"],
+        "description": "Developed responsive websites and web applications for various clients. Worked with modern frontend frameworks and backend technologies.",
+        "technologies": ["AngularJS", "Node.js", "SQL Server", ".NET", "C#"],
         "link": "#"
       }
     ]
@@ -219,8 +204,8 @@
       {
         "name": "LinkedIn",
         "icon": "Linkedin",
-        "url": "https://linkedin.com/in/yourusername",
-        "username": "@yourusername",
+        "url": "https://www.linkedin.com/in/detv/",
+        "username": "@detv",
         "description": "Professional networking and updates",
         "isPrimary": true
       },
@@ -228,41 +213,9 @@
         "name": "GitHub",
         "icon": "Github",
         "url": "https://github.com/detv2007",
-        "username": "@yourusername",
+        "username": "@detv2007",
         "description": "Code repositories and open source",
         "isPrimary": true
-      },
-      {
-        "name": "Twitter",
-        "icon": "Twitter",
-        "url": "https://twitter.com/yourusername",
-        "username": "@yourusername",
-        "description": "Tech thoughts and updates",
-        "isPrimary": false
-      },
-      {
-        "name": "Instagram",
-        "icon": "Instagram",
-        "url": "https://instagram.com/yourusername",
-        "username": "@yourusername",
-        "description": "Behind the scenes and life updates",
-        "isPrimary": false
-      },
-      {
-        "name": "YouTube",
-        "icon": "Youtube",
-        "url": "https://youtube.com/@yourusername",
-        "username": "@yourusername",
-        "description": "Tech tutorials and content",
-        "isPrimary": false
-      },
-      {
-        "name": "Medium",
-        "icon": "BookOpen",
-        "url": "https://medium.com/@yourusername",
-        "username": "@yourusername",
-        "description": "Technical articles and insights",
-        "isPrimary": false
       }
     ],
     "quickActions": [
@@ -271,28 +224,7 @@
         "description": "Drop me a line for project discussions",
         "icon": "Mail",
         "action": "email",
-        "url": "mailto:your.email@example.com"
-      },
-      {
-        "title": "Schedule Call",
-        "description": "Book a 30-minute consultation call",
-        "icon": "Phone",
-        "action": "call",
-        "url": "https://calendly.com/yourusername"
-      },
-      {
-        "title": "Book Meeting",
-        "description": "Reserve time for project planning",
-        "icon": "Calendar",
-        "action": "meeting",
-        "url": "https://calendly.com/yourusername"
-      },
-      {
-        "title": "WhatsApp",
-        "description": "Quick chat for urgent matters",
-        "icon": "MessageCircle",
-        "action": "message",
-        "url": "https://wa.me/84123456789"
+        "url": "mailto:detangvan@gmail.com"
       }
     ],
     "availability": {

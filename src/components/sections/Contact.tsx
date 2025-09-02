@@ -101,7 +101,7 @@ export default function Contact() {
               <h4 className="font-semibold text-slate-900 dark:text-white mb-4">Follow Me</h4>
               <div className="flex space-x-4">
                 <a
-                  href="https://github.com/yourusername"
+                  href="https://github.com/detv2007"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-10 h-10 bg-slate-100 dark:bg-slate-800 rounded-lg flex items-center justify-center text-slate-600 dark:text-slate-400 hover:bg-slate-200 dark:hover:bg-slate-700 hover:text-slate-900 dark:hover:text-white transition-colors duration-200"
@@ -109,20 +109,12 @@ export default function Contact() {
                   <Github className="w-5 h-5" />
                 </a>
                 <a
-                  href="https://linkedin.com/in/yourusername"
+                  href="https://www.linkedin.com/in/detv/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-10 h-10 bg-slate-100 dark:bg-slate-800 rounded-lg flex items-center justify-center text-slate-600 dark:text-slate-400 hover:bg-slate-200 dark:hover:bg-slate-700 hover:text-slate-900 dark:hover:text-white transition-colors duration-200"
                 >
                   <Linkedin className="w-5 h-5" />
-                </a>
-                <a
-                  href="https://twitter.com/yourusername"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="w-10 h-10 bg-slate-100 dark:bg-slate-800 rounded-lg flex items-center justify-center text-slate-600 dark:text-slate-400 hover:bg-slate-200 dark:hover:bg-slate-700 hover:text-slate-900 dark:hover:text-white transition-colors duration-200"
-                >
-                  <Twitter className="w-5 h-5" />
                 </a>
               </div>
             </div>

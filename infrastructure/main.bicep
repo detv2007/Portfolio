@@ -62,3 +62,4 @@ output staticWebAppId string = staticWebApp.id
 
 
 
+

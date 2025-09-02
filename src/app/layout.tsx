@@ -7,7 +7,7 @@ import { ThemeProvider } from '../components/context/ThemeContext'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Portfolio Website',
+  title: 'DeTV Portfolio Website',
   description: 'My personal portfolio website',
 }
 

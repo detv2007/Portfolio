@@ -10,7 +10,7 @@ env:
   NODE_VERSION: '18'
 
 jobs:
-  # Build job - chạy cho tất cả các trường hợp
+  # Build job - Run for all cases
   build_job:
     runs-on: ubuntu-latest
     name: Build Next.js App
@@ -70,7 +70,7 @@ jobs:
           app_location: "out"
           output_location: ""
           skip_app_build: true
-          deployment_environment: development
+          #deployment_environment: development
           api_location: ""
           api_build_command: ""
 

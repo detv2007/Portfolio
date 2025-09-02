@@ -58,3 +58,4 @@ For better performance, consider:
 - Implementing lazy loading for project images
 
 
+
