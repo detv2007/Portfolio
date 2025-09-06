@@ -84,23 +84,33 @@
     "categories": ["All", "Cloud & DevOps", "Backend Development", "Frontend Development", "Agile & Project Management", "Oracle Cloud"],
     "certificates": [
       {
-        "title": "Microsoft Certified: Azure Fundamentals (AZ-900)",
+        "title": "Microsoft Certified: Azure Solutions Architect Expert",
         "issuer": "Microsoft",
-        "date": "July 15, 2023",
-        "credentialId": "AZ-900",
-        "description": "Demonstrates foundational knowledge of cloud services and how those services are provided with Microsoft Azure.",
+        "date": "Sep 06, 2025",
+        "credentialId": "AZ-305",
+        "description": "Validates advanced expertise in designing, implementing, and managing solutions that run on Microsoft Azure, including aspects such as compute, network, storage, and security.",
         "image": "/api/placeholder/200/200",
-        "link": "https://learn.microsoft.com/api/credentials/share/en-us/tangvande-7448/DC41C5BF115B6A61?sharingId=5FA28F79F83AAD75",
+        "link": "https://learn.microsoft.com/en-us/users/tangvande-7448/credentials/63d5193716dfbc09",
         "category": "Cloud & DevOps"
       },
       {
-        "title": "Microsoft Certified: Azure Data Fundamentals (DP-900)",
-        "issuer": "Microsoft",
-        "date": "May 6, 2023",
-        "credentialId": "DP-900",
-        "description": "Demonstrates foundational knowledge of core data concepts and how they are implemented using Microsoft Azure data services.",
+        "title": "PROFESSIONAL SCRUM MASTER™ I (PSM I)",
+        "issuer": "Scrum.org",
+        "date": "July 28, 2023",
+        "credentialId": "PSM-I",
+        "description": "Certifies knowledge of Scrum framework and ability to facilitate Scrum events and remove impediments.",
         "image": "/api/placeholder/200/200",
-        "link": "https://learn.microsoft.com/api/credentials/share/en-us/tangvande-7448/2BE9C08C2A51A79D?sharingId=5FA28F79F83AAD75",
+        "link": "https://drive.google.com/file/d/1RK0IEelnJLXMp6N2_ThKkij5SgHLS-Sm/view?usp=sharing",
+        "category": "Agile & Project Management"
+      },
+      {
+        "title": "Microsoft Certified: Azure Administrator Associate (AZ-104)",
+        "issuer": "Microsoft",
+        "date": "May 31, 2025",
+        "credentialId": "AZ-104",
+        "description": "Validates skills in implementing, managing, and monitoring an organization's Microsoft Azure environment.",
+        "image": "/api/placeholder/200/200",
+        "link": "https://learn.microsoft.com/api/credentials/share/en-us/tangvande-7448/A03E49C39A46F10E?sharingId=5FA28F79F83AAD75",
         "category": "Cloud & DevOps"
       },
       {
@@ -114,24 +124,24 @@
         "category": "Cloud & DevOps"
       },
       {
-        "title": "Microsoft Certified: Azure Administrator Associate (AZ-104)",
+        "title": "Microsoft Certified: Azure Fundamentals (AZ-900)",
         "issuer": "Microsoft",
-        "date": "May 31, 2025",
-        "credentialId": "AZ-104",
-        "description": "Validates skills in implementing, managing, and monitoring an organization's Microsoft Azure environment.",
+        "date": "July 15, 2023",
+        "credentialId": "AZ-900",
+        "description": "Demonstrates foundational knowledge of cloud services and how those services are provided with Microsoft Azure.",
         "image": "/api/placeholder/200/200",
-        "link": "https://learn.microsoft.com/api/credentials/share/en-us/tangvande-7448/A03E49C39A46F10E?sharingId=5FA28F79F83AAD75",
+        "link": "https://learn.microsoft.com/api/credentials/share/en-us/tangvande-7448/DC41C5BF115B6A61?sharingId=5FA28F79F83AAD75",
         "category": "Cloud & DevOps"
       },
       {
-        "title": "PROFESSIONAL SCRUM MASTER™ I (PSM I)",
-        "issuer": "Scrum.org",
-        "date": "July 28, 2023",
-        "credentialId": "PSM-I",
-        "description": "Certifies knowledge of Scrum framework and ability to facilitate Scrum events and remove impediments.",
+        "title": "Microsoft Certified: Azure Data Fundamentals (DP-900)",
+        "issuer": "Microsoft",
+        "date": "May 06, 2023",
+        "credentialId": "DP-900",
+        "description": "Demonstrates foundational knowledge of core data concepts and how they are implemented using Microsoft Azure data services.",
         "image": "/api/placeholder/200/200",
-        "link": "https://drive.google.com/file/d/1RK0IEelnJLXMp6N2_ThKkij5SgHLS-Sm/view?usp=sharing",
-        "category": "Agile & Project Management"
+        "link": "https://learn.microsoft.com/api/credentials/share/en-us/tangvande-7448/2BE9C08C2A51A79D?sharingId=5FA28F79F83AAD75",
+        "category": "Cloud & DevOps"
       },
       {
         "title": "Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate",
